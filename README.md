@@ -9,22 +9,16 @@ I love exploring modern web technologies, mastering new tools, and diving into e
 
 ## 📦 Toolbox  
 
-**Frontend Development:**  
-`HTML5` `CSS3` `JavaScript (ES6+)` `React (Hooks, Context API)`  
+**Frontend Development:**  `HTML5` `CSS3` `JavaScript (ES6+)` `React (Hooks, Context API)`  
 
-**Version Control:**  
-`Git` `GitHub`  
+**Version Control:**  `Git` `GitHub`  
 
-**Design and Prototyping:**  
-`Figma`  
+**Design and Prototyping:**  `Figma`  
 
-**Build Tools:**  
-`Webpack` `Vite`  
+**Build Tools:**  `Webpack` `Vite`  
 
-**State Management:**  
-`React Context API`  
+**State Management:**  `React Context API`  
 
-**Others:**  
-`Responsive Design` `RESTful APIs` `Browser Developer Tools`  
+**Others:**  `Responsive Design` `RESTful APIs` `Browser Developer Tools`  
 
 Let’s build something amazing together! 🌟  
